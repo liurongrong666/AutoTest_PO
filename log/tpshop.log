@@ -1,0 +1,6 @@
+2021-04-19 22:10:44,185 INFO [root] [driver_utils.py:get_driver:15] - creat chrome driver
+2021-04-19 22:10:53,574 INFO [root] [driver_utils.py:get_driver:20] - use existed chrome driver
+2021-04-19 22:10:57,762 INFO [root] [driver_utils.py:get_driver:20] - use existed chrome driver
+2021-04-19 22:11:05,688 INFO [root] [driver_utils.py:get_driver:20] - use existed chrome driver
+2021-04-19 22:11:09,869 INFO [root] [driver_utils.py:get_driver:20] - use existed chrome driver
+2021-04-19 22:11:10,182 INFO [root] [driver_utils.py:quit_driver:27] - quit chrome driver
